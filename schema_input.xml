@@ -1,0 +1,36 @@
+<window-source pubsub="true" name="data_source">
+  <schema>
+    <fields>
+      <field name="Time" type="string"/>
+      <field name="V1" type="double"/>
+      <field name="V2" type="double"/>
+      <field name="V3" type="double"/>
+      <field name="V4" type="double"/>
+      <field name="V5" type="double"/>
+      <field name="V6" type="double"/>
+      <field name="V7" type="double"/>
+      <field name="V8" type="double"/>
+      <field name="V9" type="double"/>
+      <field name="V10" type="double"/>
+      <field name="V11" type="double"/>
+      <field name="V12" type="double"/>
+      <field name="V13" type="double"/>
+      <field name="V14" type="double"/>
+      <field name="V15" type="double"/>
+      <field name="V16" type="double"/>
+      <field name="V17" type="double"/>
+      <field name="V18" type="double"/>
+      <field name="V19" type="double"/>
+      <field name="V20" type="double"/>
+      <field name="V21" type="double"/>
+      <field name="V22" type="double"/>
+      <field name="V23" type="double"/>
+      <field name="V24" type="double"/>
+      <field name="V25" type="double"/>
+      <field name="V26" type="double"/>
+      <field name="V27" type="double"/>
+      <field name="V28" type="double"/>
+      <field name="UUID" type="string"/>
+    </fields>
+  </schema>
+</window-source>
